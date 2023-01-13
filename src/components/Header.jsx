@@ -15,7 +15,7 @@ import { GlobalStyle } from "./styles/globalstyle.js"
              <li>  Home </li>
                 <li>Blog </li>
                 <li>Valores</li>
-            <li>Portifólio</li> 
+            <li>Sobre</li> 
                 <li>contatos</li>
             </ul>
            

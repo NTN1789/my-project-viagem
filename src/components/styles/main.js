@@ -33,6 +33,7 @@ background-position:center ;
         font-weight:500 ;
         padding:0 10 ;
         cursor: pointer;
+       
     
         &:hover{
              transition: 0.2s;
