@@ -12,11 +12,11 @@ import { GlobalStyle } from "./styles/globalstyle.js"
         
             <ul>
                
-             <li>  Home </li>
-                <li>Blog </li>
-                <li>Valores</li>
-            <li>Sobre</li> 
-                <li>contatos</li>
+             <li> Home </li>
+            <li>Blog </li>
+            <li>Valores</li>
+         <li>Sobre</li> 
+            <li>contatos</li>
             </ul>
            
             </S.Header>

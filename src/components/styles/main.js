@@ -2,6 +2,8 @@ import styled from "styled-components";
 
 import deposito from "../../assets/img/deposito.jpg"
 
+import cancun from "../../assets/img/Cancun.jpg"
+
 export const banner = styled.section `
 height:100vh;
 background-image: url(${deposito});
@@ -42,6 +44,35 @@ background-position:center ;
        
 
     }
+
+`
+
+export const itens = styled.section `
+
+   height:100vh;
+
+
+    p{
+        text-align:center;
+        color: aqua;
+        padding:1.5rem;
+        font-size:2.5rem;
+        text-transform:uppercase
+        
+
+    }
+
+
+   img{
+    position:relative;
+     width:60vh;
+     top:20vh;
+     
+   }
+
+ 
+
+
 
 
 `

@@ -4,9 +4,10 @@ import styled from "styled-components"
  export const Header = styled.header `
     background-color:black;
     padding:10px 60px
-    display: flex;
-    justify-content : space-between;
-    align-items:center;
+    
+    display:flex;
+   
+  
 
 
     ul {
@@ -34,14 +35,8 @@ import styled from "styled-components"
          color:tomato ;
          cursor:pointer;
    
-        }
-
-
+        }    
    }
 
 
-
-
-
-`
-
+   `
