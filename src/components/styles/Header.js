@@ -3,12 +3,10 @@ import styled from "styled-components"
 
  export const Header = styled.header `
     background-color:black;
-    padding:10px 60px
+    padding:10px 60px;
     
-    display:flex;
-   
+    
   
-
 
     ul {
     display:flex ;
@@ -26,12 +24,11 @@ import styled from "styled-components"
     font-size:1.5rem;
     font-weight:500 ;
     padding: 10px 15px ;
-    border-radius:5px ;
     transition:0.3s ;
     text-transform: uppercase;
 
         &:hover{
-            background-color:snow ;
+      
          color:tomato ;
          cursor:pointer;
    
