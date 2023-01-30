@@ -6,8 +6,6 @@ import styled from "styled-components"
     padding:10px 60px;
     
     
-  
-
     ul {
     display:flex ;
     justify-content:flex-end;
@@ -16,7 +14,6 @@ import styled from "styled-components"
     padding:2vh
     
    }
-
     li{
     margin-right:10px;
     text-decoration:none;
@@ -26,7 +23,6 @@ import styled from "styled-components"
     padding: 10px 15px ;
     transition:0.3s ;
     text-transform: uppercase;
-
         &:hover{
       
          color:tomato ;
@@ -34,6 +30,9 @@ import styled from "styled-components"
    
         }    
    }
+
+  
+
 
 
    `
