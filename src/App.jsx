@@ -13,9 +13,7 @@ function App() {
       <Header/>
       <Main/>
   
-    
   
-     
   
     </div>
   )
